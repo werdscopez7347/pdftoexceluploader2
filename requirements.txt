@@ -1,0 +1,9 @@
+Flask
+requests
+PyPDF2
+git+https://github.com/ComPDFKit/compdfkit-api-python.git
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
+openpyxl
